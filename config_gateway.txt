@@ -1,0 +1,5 @@
+######WIFI#######
+network={
+	    ssid="DeptInfoLora"
+	    psk="Ucp2...****"
+	}
