@@ -3,3 +3,7 @@ network={
 	    ssid="DeptInfoLora"
 	    psk="Ucp2...****"
 	}
+
+#####ttn####
+gateway-ttnbbb
+mdp:azerty(****nombre****)
