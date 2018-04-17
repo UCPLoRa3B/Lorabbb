@@ -7,3 +7,6 @@ network={
 #####ttn####
 gateway-ttnbbb
 mdp:azerty(****nombre****)
+
+######Adress MAC#####
+b827ebfffea1ca0a
